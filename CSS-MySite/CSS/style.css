@@ -1,0 +1,92 @@
+
+h1{
+    margin: 50px auto 0 auto.0;
+    position: relative;
+    top: 30px;
+    font-family: 'Sacramento' , cursive;
+    font-size: 500%;
+    color: #66bfbf;
+
+    /* line-height: 2; */
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+h2{
+    font-family:  sans-serif;
+
+    color: #66bfbf;
+}
+.sing
+{
+    
+    width: 25%;
+    float: right;
+}
+h3{
+    font-family:   sans-serif;
+
+    color: #66bfbf;
+}
+.coding{
+    margin-right: 30px;
+    margin-bottom: 50px;
+    width: 25%;
+    float: left;
+}
+.social{
+    height: 70px;
+    width: 70px;
+ 
+    margin: 10px;
+ 
+        border: 20
+        px solid #dadada;
+        border-radius: 7px;
+    
+    
+    
+}
+.social:focus { 
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+#programmer
+{
+    font-size: 200%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: #66bfbf;
+}
+#pro
+{
+    text-decoration: underline;
+    
+    font: 2.5rem;
+}
+body{
+    margin: 0;
+    text-align: center;
+    /* font-family: 'merriweather' , serif; */
+}
+.Top{
+    background-color: #377D71;
+    margin: 0;
+    position: relative;
+
+}
+.cloud1{
+    position: relative;
+    left: 300px;
+    top: 50px;
+    /* bottom: 300px; */
+}
+.cloud2{
+    position: absolute;
+    left: 240px;
+}
